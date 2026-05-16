@@ -8,6 +8,10 @@ Self hosted home server with repurposed hardware
 - Intel Pentium 3825U 2C-4T @1.9GHz
 - 4GB LPDDR3 RAM @1600MHz
 - 120GB SATA SSD
+### Issues 
+- Broken Ethernet Port
+- Partially functioning display panel
+- Deteriorated battery
 
 ## Services
 - Jellyfin
