@@ -25,3 +25,6 @@ Self hosted home server with repurposed hardware
 - AdGuard
 - Glances
 - Cloudflare Tunnel (in-progress)
+
+## [Journey](journey.md)
+A brief into various challenges faced and applied solutions in making of the Server.
